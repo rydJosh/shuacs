@@ -15,8 +15,13 @@ Style: 4
 Size: 2
 Thickness: 1
 Gap: -3
+Outline: 0
+Dot: 0
 Color: 2
-Alpha 253
+Alpha: 253
+Sniper Width: 1
+
+**Viewmodel**
 
 
 **Video**
